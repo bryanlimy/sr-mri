@@ -1,0 +1,13 @@
+h5py
+tqdm
+numpy
+torchio
+nibabel
+seaborn
+jupyter
+packaging
+matplotlib
+tensorboard
+scikit-image
+scikit-learn
+jupyter_http_over_ws

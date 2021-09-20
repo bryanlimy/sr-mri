@@ -1,0 +1,9 @@
+fastMRI/
+HCP/
+MDS/
+IFC/
+test_set/
+*.pkl
+*.csv
+*.h5
+*.npy
