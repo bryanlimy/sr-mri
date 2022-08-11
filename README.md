@@ -1,8 +1,8 @@
+# Please check [https://github.com/bryanlimy/clinical-super-mri](https://github.com/bryanlimy/clinical-super-mri).
+
 ## MRI super-resolution (work in progress)
 
 ### Table of content
-- [MRI super-resolution](#mri-super-resolution)
-  - [Table of content](#table-of-content)
 - [1. Installation](#1-installation)
 - [2. Dataset](#2-dataset)
 - [3. Train model](#3-train-model)
